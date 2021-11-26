@@ -12,3 +12,8 @@ nest g class {folder name}/{model name}.model --no-spec          -- create new M
 #04.006 Создание контроллеров
 
 nest g controller {folder with module} --no-spec          --- create new Controller
+
+
+
+
+nest g service {name of service the same with model}         --- create new service
