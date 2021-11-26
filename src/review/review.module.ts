@@ -13,7 +13,8 @@ import { ReviewService } from './review.service';
 				schemaOptions: {
 					collection: 'Review'
 				}
-			}])
+			}
+		])
 	],
 	providers: [ReviewService]
 })

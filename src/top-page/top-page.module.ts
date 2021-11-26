@@ -12,7 +12,8 @@ import { TopPageModel } from './top-page.model';
 				schemaOptions: {
 					collection: 'TopPage'
 				}
-			}])
+			}
+		])
 	]
 })
 export class TopPageModule { }

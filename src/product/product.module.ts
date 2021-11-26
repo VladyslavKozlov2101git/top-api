@@ -12,7 +12,8 @@ import { ProductModel } from './product.model';
 				schemaOptions: {
 					collection: 'Product'
 				}
-			}])
+			}
+		])
 	]
 })
 export class ProductModule { }
